@@ -45,7 +45,7 @@ function App() {
       },
       {
         nome: 'Refil Mé (Com o Copo) ',
-        valor: 3,
+        valor: 4,
       },
     ],
   }
